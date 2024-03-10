@@ -1,5 +1,11 @@
 # @uploadthing/react
 
+## 6.3.5
+
+### Patch Changes
+
+- [#684](https://github.com/pingdotgg/uploadthing/pull/684) [`58e5944`](https://github.com/pingdotgg/uploadthing/commit/58e5944c3f89510abd1842ed5d57cd0b3d97eede) Thanks [@markflorkowski](https://github.com/markflorkowski)! - fix(button): Remove extra tabindex on button
+
 ## 6.3.4
 
 ### Patch Changes
